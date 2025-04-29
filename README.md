@@ -14,8 +14,9 @@ stock_market/
 │   ├── base_strategy.py   # 基础策略类
 │   ├── macd_strategy.py   # MACD策略实现
 │   └── bollinger_strategy.py  # 布林带策略实现
-├── run_strategy_example.py    # MACD策略运行示例
-├── run_bollinger_example.py   # 布林带策略运行示例
+├── run_strategy.py    # 运行示例
+├── run_bollinger_strategy.py   # 布林带策略运行示例
+├── run_macd_strategy.py   # MACD策略运行示例
 └── requirements.txt       # 项目依赖
 ```
 
