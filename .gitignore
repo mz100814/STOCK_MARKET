@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+./docs
+# 项目特定文件
+stock_market.db
+*.csv
+.idea/
+.vscode/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db 
+docs/智能金融资讯分析与决策支持系统_技术方案设计_v1.0.md
+docs/智能金融资讯分析与决策支持系统需求文档_v1.0.md
